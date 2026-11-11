@@ -1,6 +1,6 @@
 {
   "FACTURACION DXI": {
-    "activo": true,
+    "activo": false,
     "mensaje": "Licencia al día",
     "vencimiento": "2026-12-31"
   }
