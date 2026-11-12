@@ -15,7 +15,7 @@
     "vencimiento": "2026-12-31"
   },
   "WINSTOCK": {
-    "activo": true,
+    "activo": false,
     "mensaje": "Licencia",
     "vencimiento": "2026-12-31"
   }
