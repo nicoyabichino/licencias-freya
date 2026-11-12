@@ -8,5 +8,10 @@
     "activo": true,
     "mensaje": "Licencia",
     "vencimiento": "2026-12-31"
+  },
+  "CRM": {
+    "activo": true,
+    "mensaje": "Licencia",
+    "vencimiento": "2026-12-31"
   }
 }
