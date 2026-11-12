@@ -5,7 +5,7 @@
     "vencimiento": "2026-12-31"
   },
   "AUSENTISMO": {
-    "activo": false,
+    "activo": true,
     "mensaje": "Licencia",
     "vencimiento": "2026-12-31"
   }
