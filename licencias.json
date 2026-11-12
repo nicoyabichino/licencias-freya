@@ -10,7 +10,7 @@
     "vencimiento": "2026-12-31"
   },
   "CRM": {
-    "activo": false,
+    "activo": true,
     "mensaje": "Licencia",
     "vencimiento": "2026-12-31"
   }
